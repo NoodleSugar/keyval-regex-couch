@@ -7,18 +7,6 @@
 	<version>0.1-SNAPSHOT</version>
 	<dependencies>
 		<dependency>
-			<groupId>org.junit.jupiter</groupId>
-			<artifactId>junit-jupiter-api</artifactId>
-			<version>5.5.0</version>
-			<scope>src/test</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.junit.jupiter</groupId>
-			<artifactId>junit-jupiter-engine</artifactId>
-			<version>5.5.0</version>
-			<scope>src/test</scope>
-		</dependency>
-		<dependency>
 			<groupId>insomnia</groupId>
 			<artifactId>keyval-regex-core</artifactId>
 			<version>0.1-SNAPSHOT</version>
